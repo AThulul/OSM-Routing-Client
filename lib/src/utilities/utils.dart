@@ -99,7 +99,7 @@ double parseToDouble(dynamic value) {
 }
 
 //const String oSRMServer = "http://osrm.64.227.122.254.nip.io";
-const String oSRMServer = "http://map.project-osrm.org";
+const String oSRMServer = "https://nominatim.openstreetmap.org";
 
 const Map<String, int> maneuvers = {
   "new name": 2,
